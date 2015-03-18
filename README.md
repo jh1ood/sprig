@@ -4,4 +4,4 @@
 ```
 % gcc -Wall -std=c99 myprog.c -o myprog -lm -lasound -lfftw3 `pkg-config --cflags --libs gtk+-2.0`
 ```
-![image](http://spinorlab.files.wordpress.com/2014/12/click_ani.gif?w=604&h=337)
+![image](./click_ani.gif)
