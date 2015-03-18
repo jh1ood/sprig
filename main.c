@@ -1,7 +1,7 @@
 /* Sprig: IC-7410 Rig Control Program */
 /* version 0.01, Jan. 17, 2015 */
 /* (c) JH1OOD, Mike */
-/* % gcc -Wall -std=c99 myprog.c -o myprog -lm -lasound -lfftw3 `pkg-config --cflags --libs gtk+-2.0` */
+/* % gcc -Wall -std=c99 main.c -o sprig -lm -lasound -lfftw3 `pkg-config --cflags --libs gtk+-2.0` */
 
 #define NO_DEBUG
 #define NO_MARKER
